@@ -5,8 +5,8 @@ Requirements: PHP 5 and a MySQL Server
 
 What does it do?
 
-1. Blog: parses XML -> HTML
-2. Post a new Entry: Generates a .XML Feed in UTF-8
+1. Blog: parses XML -> HTML (last 25 entries)
+2. Post a new Entry: Generates a .XML Feed in UTF-8 -> Updates Blog
 3. Text-only
 
 Todo
