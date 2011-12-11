@@ -1,0 +1,17 @@
+Ultra light-weight blogging engine that is very easy to implement.
+This project has been written for 'The Queue' feed in Read (http://readapp.net)
+
+Requirements: PHP 5 and a MySQL Server
+
+What does it do?
+
+1. Blog: parses XML -> HTML
+2. Post a new Entry: Generates a .XML Feed in UTF-8
+3. Text-only
+
+Todo
+
+1. Deleting Posts
+2. Better login
+3. Parse HTML to show pictures or links in posts
+4. Clean up code
